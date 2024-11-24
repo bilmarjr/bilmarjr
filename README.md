@@ -39,10 +39,7 @@ I am an Aspiring AI and Cybersecurity Engineer passionate about leveraging techn
 
 #
 
-### 📊 Stats
+### 📊 My Stats
 
-<a href="https://github-readme-stats"/>
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bilmarjr&theme=nord&show_icons=true&hide_border=true">
-</a>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bilmarjr&theme=nord&show_icons=true&hide_border=true" />
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=bilmarjr&theme=nord&border_radius=4.5) -->

@@ -4,7 +4,7 @@ I am an Aspiring AI and Cybersecurity Engineer passionate about leveraging techn
 
 ---
 
-### 🧰 Languages
+### 🧑‍💻 Languages
 
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
@@ -19,7 +19,7 @@ I am an Aspiring AI and Cybersecurity Engineer passionate about leveraging techn
 
 #
 
-###  Frameworks and Tools
+### 🛠️ Frameworks and Tools
 
 <img align="left" alt="Keras" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" />
 <img align="left" alt="OpenCV" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" />

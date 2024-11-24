@@ -3,7 +3,7 @@
 **`ai cyberSecurity engineer`**
 
 
-i am an aspiring ai and cyberSecurity engineer passionate about leveraging technology to solve real-world problems. Proficient in robotics, software development, and system analysis. Constantly exploring the intersection of AI, cybersecurity, and automation to build secure and intelligent systems.
+i am an aspiring ai and cyberSecurity engineer passionate about leveraging technology to solve real-world problems. proficient in robotics, software development, and system analysis. constantly exploring the intersection of ai, cybersecurity, and automation to build secure and intelligent systems.
 
 ---
 

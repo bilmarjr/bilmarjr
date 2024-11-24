@@ -29,11 +29,12 @@ I am an Aspiring AI and Cybersecurity Engineer passionate about leveraging techn
 
 ### 📊 Stats
 
-![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilmarjr&theme=apprentice&show_icons=true)
+![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilmarjr&theme=nord&show_icons=true)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=bilmarjr&theme=nord&border_radius=4.5)
 
 #
+
 <!--
 <details>
  <summary><h3>👨‍💻 Bilal's Coding Journey</h3></summary>

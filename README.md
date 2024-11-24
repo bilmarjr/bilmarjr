@@ -40,7 +40,7 @@ I am an Aspiring AI and Cybersecurity Engineer passionate about leveraging techn
 
 ![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilmarjr&theme=nord&show_icons=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=bilmarjr&theme=nord&border_radius=4.5)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=bilmarjr&theme=nord&border_radius=4.5) -->
 
 #
 

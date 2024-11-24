@@ -1,7 +1,6 @@
 ## 🥷👺 Bilal Hassan
 
-<!--
-**bilmarjr/bilmarjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Aspiring AI and Cybersecurity Engineer passionate about leveraging technology to solve real-world problems. Proficient in robotics, software development, and system analysis. Constantly exploring the intersection of AI, cybersecurity, and automation to build secure and intelligent systems.
 
 Here are some ideas to get you started:
 

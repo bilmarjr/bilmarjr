@@ -1,4 +1,4 @@
-## 🥷👺 Bilal Hassan
+## 🥷👺 bilal hassan
 
 **`ai cyberSecurity engineer`**
 
@@ -39,7 +39,7 @@ i am an aspiring ai and cyberSecurity engineer passionate about leveraging techn
 
 #
 
-### 📊 my Stats
+### 📊 my stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bilmarjr&theme=nord&show_icons=true&hide_border=true" />
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=bilmarjr&theme=nord&border_radius=4.5) -->

@@ -33,7 +33,7 @@ i am an aspiring ai and cyberSecurity engineer passionate about leveraging techn
 <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Jupyter" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
-<img align="left" alt="Kali" width="40px" style="padding-right:10px;" src="http://www.w3.org/2000/svg" />
+<img align="left" alt="Kali" width="40px" style="padding-right:10px;" src=http://www.w3.org/2000/svg" x="0px" y="0px" width="48" height="48" viewBox="0 0 48 48" />
 
 <br />
 
